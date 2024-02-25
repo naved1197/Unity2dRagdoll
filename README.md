@@ -1,2 +1,3 @@
 How to setup 2d ragdoll in Unity
-![image](https://github.com/naved1197/Unity2dRagdoll/assets/96604519/35e53427-bf8f-496a-b4eb-3d0fda459ea4)
+
+![Movie_001-ezgif com-video-to-gif-converter](https://github.com/naved1197/Unity2dRagdoll/assets/96604519/85be139f-31c3-4c8e-b2e1-264db3a29308)
